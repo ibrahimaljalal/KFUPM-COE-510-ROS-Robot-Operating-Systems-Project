@@ -1,0 +1,2 @@
+1-To start the openCV program run the start.py file (The rest of the files are like dependencies or libraries for this file).
+2-the program my not work if you don't have the right modules and the right versions.

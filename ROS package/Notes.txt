@@ -1,0 +1,4 @@
+In order to use this package simply:
+1-Put it in the src folder (path: ~/catkin_ws/src)
+2-cd ~/catkin_ws
+3-catkin_make
